@@ -4,6 +4,9 @@
   <test name="Test">
     <classes>
       <class name="com.crm.qa.testes.LoginTest"/>
+      <class name="com.crm.qa.testes.HomepageTest"/>
+       <class name="com.crm.qa.testes.ContacsPageTest"/>
+        
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
